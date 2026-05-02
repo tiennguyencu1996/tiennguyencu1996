@@ -10,7 +10,7 @@ Focused on:
 
 ---
 
-## 🔬 Current Work
+## Current Work
 
 * Differentiable modeling of musical structure
 * Physically plausible transcription systems
@@ -18,13 +18,13 @@ Focused on:
 
 ---
 
-## 📂 Featured Project
+## Featured Project
 
 * Guitar Tab Transcription Research
 
 ---
 
-## 🧠 Research Interests
+## Research Interests
 
 * Music Information Retrieval (MIR)
 * Speech & Singing Processing
