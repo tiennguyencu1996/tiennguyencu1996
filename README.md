@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🎸 Tien Nguyen Cao
 
-<!--
-**tiennguyencu1996/tiennguyencu1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Research in Automatic Music Transcription (AMT)**
+Focused on **Guitar Tablature Modeling & Physical Constraints**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current Work
+
+* Differentiable Transition Regularization
+* Physically Plausible Guitar Tablature Transcription
+
+---
+
+## Featured Project
+
+* Guitar Tab Transcription Research
+
+---
+
+## Research Interests
+
+* Music Information Retrieval (MIR)
+* Deep Learning for Audio
+* Symbolic Music Modeling
+
+---
+
+## Contact
+
+* [tiennguyencu1996@gmail.com](mailto:tiennguyencu1996@gmail.com)
