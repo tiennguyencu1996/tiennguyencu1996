@@ -1,31 +1,38 @@
 # 🎸 Tien Nguyen Cao
 
-**Research in Automatic Music Transcription (AMT)**
-Focused on **Guitar Tablature Modeling & Physical Constraints**
+**Research in Music & Audio AI**
+
+Focused on:
+
+* Automatic Music Transcription (AMT)
+* Speech & Singing Alignment
+* Music-conditioned Audio Modeling
 
 ---
 
 ## 🔬 Current Work
 
-* Differentiable Transition Regularization
-* Physically Plausible Guitar Tablature Transcription
+* Differentiable modeling of musical structure
+* Physically plausible transcription systems
+* Music-enhanced phoneme alignment & pronunciation modeling
 
 ---
 
-## Featured Project
+## 📂 Featured Project
 
 * Guitar Tab Transcription Research
 
 ---
 
-## Research Interests
+## 🧠 Research Interests
 
 * Music Information Retrieval (MIR)
+* Speech & Singing Processing
+* Multimodal Audio-Language Modeling
 * Deep Learning for Audio
-* Symbolic Music Modeling
 
 ---
 
-## Contact
+## 📫 Contact
 
 * [tiennguyencu1996@gmail.com](mailto:tiennguyencu1996@gmail.com)
